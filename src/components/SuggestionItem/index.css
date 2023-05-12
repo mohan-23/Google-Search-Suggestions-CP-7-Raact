@@ -1,0 +1,27 @@
+.list_items {
+  list-style-type: none;
+  margin-left: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: -10px;
+}
+
+.suggestion {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.arrow {
+  height: 25px;
+  width: 25px;
+}
